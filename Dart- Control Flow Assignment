@@ -1,0 +1,9 @@
+Void main ()
+{ n=10;
+If (n>10)
+{ Print("Your number is greater than 10";}
+Else (n<10)
+{Print ("Your number is less than 10);}
+If (n=10)
+{Print ("Your number is equal to 10");}
+}
